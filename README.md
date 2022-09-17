@@ -74,3 +74,10 @@ A set of assignments in the Racket programming language.
 [lists-assignment]: https://github.com/racketf/lists-assignment
 [trees-assignment]: https://github.com/racketf/trees-assignment
 [lists-quiz]: https://github.com/racketf/lists-quiz
+
+<br>
+<br>
+
+
+[![](https://img.youtube.com/vi/LN0qG-i1iT0/maxresdefault.jpg)](https://www.youtube.com/watch?v=LN0qG-i1iT0)
+[![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
